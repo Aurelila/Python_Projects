@@ -1,0 +1,16 @@
+my_name = "Codecademy"
+print("Hello and welcome " + my_name + "!")
+
+# This is a comment!
+print("Hello everyone!")
+
+#Print your name
+print("Nancy McCoy")
+
+# Greeting
+message_string = "Hello there"
+print(message_string)
+
+# Farewell
+message_string = "Hasta la vista"
+print(message_string)
